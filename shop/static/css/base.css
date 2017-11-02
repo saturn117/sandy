@@ -119,7 +119,7 @@ ul.errorlist {
 
 #header {
     padding:10px 10px;
-    font-size:45px;
+    font-size:5px;
     overflow:auto;
     background:#FFFFFF;
 }
@@ -135,7 +135,7 @@ ul.errorlist {
     font-family: 'Ubuntu', sans-serif;
     float:center;
     color:#472121;
-    font-size:54px;
+    font-size:40px;
     margin-right:10%;
     margin-left: 10%;
 }
@@ -187,7 +187,7 @@ ul.errorlist {
 #main {
     float:left;
     width: 96%;
-    margin-right:-220px;
+    margin-right:-240px;
     overflow:hidden;
 }
 
